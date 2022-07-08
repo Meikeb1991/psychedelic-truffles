@@ -1,15 +1,15 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
-values:
-  - heading: "Shade-grown coffee"
+title: "Testimonials"
+image: ![page-text1](https://user-images.githubusercontent.com/108225569/178019855-a5fe1566-62f7-4eca-8523-fb0c0d8d836f.jpeg)
+Testimonals:
+  - heading: "It was an amazing journey"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
+      "It was a deep, expanding journey, I really wanted to explore 
+      what was holding me back and what I needed to move on in life.
+      My own preparation and Meike's guidance and support helped me
+      discover what I needed. I still work on integrating the insights daily
+      and am very grateful for the experience and opportunity to connect with myself." _Ani_
+    imageUrl: ![a9e6a538ce0e6e1a83c673d4e3b832c2](https://user-images.githubusercontent.com/108225569/178020823-93bf2ccb-1cc5-4d41-a705-aef9c0899213.jpeg)
   - heading: "Single origin"
     text: >
       Single-origin coffee is coffee grown within a single known
