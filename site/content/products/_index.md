@@ -1,28 +1,26 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+title: A deep dive
+type: Retreat
+image: [day9 10](https://user-images.githubusercontent.com/108225569/178022309-bc0fc566-757a-480f-8023-32fc6782af04.jpeg)
+heading: What is included
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  A true sacret container - removed from your every day life - in a humble yoga studio.
+  A 24 hour journey which combines modern day science whilst integrating some indigenous 
+  practices. 
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image:[post](https://user-images.githubusercontent.com/108225569/178023674-3a8be7a3-c469-421d-92ca-c704c672d6e8.jpeg)
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
+        A humble - spacious - yoga studio in Amstelveen, near a gorgeous lake.
+        There is a large ceremony room, living room and kitchen with 2 bathrooms.  
+        The location is easily accessible - a 10 minute taxi from Schiphol or  
+        by bus - bike - car from Amsterdam Centraal-Zuid station.
+    - image: ![meditatie](https://user-images.githubusercontent.com/108225569/178024307-c0eae11b-7ec5-429b-a160-336dc5763868.jpeg)
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        The journey will include meditation, movement, sensation exploration 
+        & connecting with your breath. All intentionally designed to help you
+        trust, surrender and receive. For you to have the journey you need, which 
+        might be different from what you want.
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
