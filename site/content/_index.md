@@ -1,16 +1,16 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Dive deep into yourself"
+subtitle: A journey inwards that you will never forget 
+image: ![cover](https://user-images.githubusercontent.com/108225569/178025116-5c02cd81-81a0-433c-996c-f1fd1a3389d5.jpeg)
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: "Why explore your mind?"
+    text: "3 in 4 people consider a guided psychedelic journey in the top 5 of most meaningful experiences of their lives. It fits in the same bucket as the birth of their child or getting married. It has shown to catalyze deep psychological wellness and meaningful change." 
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+    heading: "How does it work?"
+    text: "You will deep dive into the depths of your sub-consciousness which can lead to personal growth, emotional breakthroughs, and spiritual development. Neuroscientific research shows that the only way we can change the way we feel is by becoming aware of our inner experience and learning to befriend what is going inside ourselves. "
+Am I ready:
+    - image:![final page](https://user-images.githubusercontent.com/108225569/178026006-ce843198-09b2-47f6-86f1-2889b4790cce.jpeg)
+      text: "You have a unique body and mind, with a particular history and conditioning. No one can offer you a formula for navigating all situations and      all states of mind. Only by listening inwardly in a fresh and open way will you discern at any given time what most serves your healing and freedom. In your dive, you will gather information about the currents that are impacting how you behave and feel today. Currents that are normally hidden from what the eye and mind can see. As long as you suppress information, you are fundamentally at war with yourself…The critical issue is allowing yourself to know what you know. That takes courage."
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
