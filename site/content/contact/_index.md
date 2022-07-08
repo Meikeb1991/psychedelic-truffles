@@ -11,4 +11,4 @@ questions.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries and scheduling a 1-on-1 session.
+You can also email meikebunt@live.nl for any inquiries and scheduling a 1-on-1 session.
